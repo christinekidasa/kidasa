@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>kidasa assignment</title>
+</head>
+
+<body>
+<h1 style="background-color:Tomato;"align="center">The role of the 21st Century Librarian</h1>
+</body>
+
+<style>
+marquee{
+color:Orange;
+Font-family:Bookman old style;
+}
+</style>
+<body.
+<h2><marquee>Current Web Library Technologies</marquee></h2>
+</body>
+
+<address>
+<font color="blue"><b><align="right">
+Kyambogo University<br>
+P.O.BOX 1<br>
+Kampala<br>
+Uganda
+</font></b>
+</address>
+
+<body>
+<h3>Kyambogo University building</h3>
+<img src="Kyambogo University building.jpg" alt="administration block" width="1332" height="400">
+</body>
+<h4><b>Blogging as an information access and retrieval tool in libraries</h2>
+</h4>
+
+<article>
+<ol type="i">
+<h5>WHY USE BLOGS IN LIBRARIES</h5>
+<li> To increase your knowledge</li>
+<li> To build your Vocabulary</li>
+<li> To express your thoughts</li>
+</ol>
+</article>
+
+<h6>Importance of social networking sites in libraries</h6>
+<ol>
+<li>Quick feedback from librarians</li>
+<li>Receiving updated information</li>
+<li>Round the clock availability of informaion</li>
+<li>Easy information sharing</li>
+<li>Collaboration</li>
+</ol>
+</body>
+<ul>
+
+<h7>Challenges of using social networking sites in libraries</h7>
+<li>Limited internet access</li>
+<li>Social networking ignorance</li>
+<li>Power problems</li>
+<li>Oranges</li>
+<li>Costly gadgets</li>
+</ul>
+
+</body>
+</html>
+
+
